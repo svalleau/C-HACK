@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=250>
+</div>
+
 # C-HACK
 Chem E Hackathon 2021 Tutorial Notebooks <br>
-<div align="center">
-  <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=300>
-</div>
+
+
 In this repository you will find the Jupyter notebooks used in the <a href="https://www.c-hack.org/">C-HACK 2021 Tutorials</a>
 
 ## Tutorial topics
