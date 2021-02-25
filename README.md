@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=250>
 </div>
 
@@ -31,3 +31,4 @@ Notebooks were written using versions of Python > 3.6 and requires these package
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/)
 
 ## License
+[Apache License 2.0](LICENSE)
