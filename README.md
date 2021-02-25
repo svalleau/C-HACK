@@ -13,7 +13,7 @@ In this repository you will find the Jupyter notebooks used in the <a href="http
 <li>Regression: Scikit-learn / Linear regression / Fitting error / Prediction / Bias & variance </li>
 
 
-## Tutorial instructors
+## Tutorial instructors / C-HACKMASTERs
 <li> Jesse Chiem (Tutorial 1) - Computing & Technology Manager, UW Chem E</li>
 <li> David Beck (Tutorials 2 and 3) - Director of Research & Education, eScience Institute, UW Chem E</li>
 <li> Wesley Beckner (Tutorial 4) - Program Ops Specialist, UW Chem E</li>
