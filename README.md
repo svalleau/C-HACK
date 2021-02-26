@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=180>
 </div>
 
