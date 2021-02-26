@@ -1,5 +1,5 @@
-<div align="left">
-  <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=250>
+<div align="right">
+  <img src="https://github.com/valleau-lab/C-HACK/blob/main/Logo/C-HACK_logo.png" width=180>
 </div>
 
 # Chem E Hackathon 2021 Tutorial Notebooks
