@@ -3,7 +3,7 @@
 </div>
 
 # Chem E Hackathon 2021 Tutorial Notebooks
-In this repository you will find the Jupyter notebooks used in the <a href="https://www.c-hack.org/">C-HACK 2021 Tutorials</a>
+In this repository you will find the Jupyter notebooks used in the UW Chemical Engineering <a href="https://www.c-hack.org/">C-HACK 2021 Tutorials</a>
 
 ## Tutorial topics
 <li>Introduction</i>: Google Colab / Jupyter notebooks / Python code / Variables / Basic operations  </li>
